@@ -1,3 +1,5 @@
+# This repo has been merged upstream - see https://github.com/microsoft/vscode-vsce
+
 # vsce
 
 > _The Visual Studio Code Extension Manager_
